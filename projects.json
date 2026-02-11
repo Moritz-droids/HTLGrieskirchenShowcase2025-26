@@ -7,13 +7,6 @@
     "status": 1
   },
   {
-    "title": "empty2",
-    "folder": "empty2",
-    "author": "empty2",
-    "year": "2025_WS",
-    "status": 1
-  },
-  {
     "title": "Plants vs. Zombies",
     "folder": "Plants vs. Zombies",
     "author": "Tobias Hofinger",
@@ -38,6 +31,13 @@
     "title": "HyperKine",
     "folder": "HyperKine",
     "author": "Clemens Auinger",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "EndlessRunner",
+    "folder": "EndlessRunner",
+    "author": "Stefan Wenzlhumer",
     "year": "2025_WS",
     "status": 1
   }
